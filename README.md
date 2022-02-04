@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Cluster-Taek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cluster-Taek&show_icons=true&theme=dark)
 - 🔭 I’m currently working on DataStudio
 - 
 <!--

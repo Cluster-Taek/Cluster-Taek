@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Cluster-Taek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cluster-Taek&show_icons=true&theme=dark)
-- 🔭 I’m currently working on DataStudio
+- 🔭 I’m currently working on [Data Studio](https://www.datastudio.co.kr/)
 - 
 <!--
 **Cluster-Taek/Cluster-Taek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,11 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cluster-Taek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster-Taek&layout=compact&theme=buefy&hide_border=true" /></a>
 
+<div align="center">
 <a href="https://github.com/doongjun/commitmon">
   <img alt="commitmon" src="https://commitmon.me/adventure?username=Cluster-Taek&theme=grassland" width="500px" />
 </a>
+</div>
 
 <!--
 **Cluster-Taek/Cluster-Taek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

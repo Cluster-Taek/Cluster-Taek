@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=Cluster-Taek&theme=grassland" width="500px" />
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=Cluster-Taek" width="500px" />
 </a>
 </div>
 

@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yst811@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cluster-Taek)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://cluster-taek.github.io)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://cluster-taek.tistory.com)
 
 Hi there! I'm **Frontend Developer** focused on building solid architecture and efficient **DX (Developer Experience)** in the Next.js/React ecosystem. I enjoy solving business problems with broad technical skills beyond frontend, including CI/CD, AWS infrastructure, and cost optimization.
 

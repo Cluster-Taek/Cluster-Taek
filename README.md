@@ -1,6 +1,7 @@
 # Yoo Seung Taek
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yst811@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A5FFA5?style=flat-square&logo=penpot&logoColor=black)](https://dev.cluster-taek.cloud)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cluster-Taek)
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://cluster-taek.tistory.com)
 
